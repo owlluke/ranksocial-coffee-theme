@@ -1,9 +1,22 @@
-# บริษัท แร็งค์ โซเชียล ดิจิตอล จำกัด (Rank Social Digital)
-รับทำเว็บไซต์ รับออกแบบเว็บไซต์ WordPress รับทำ SEO
+# The all in one changelog solution.
+Weekly Digest
+Here's a roundup of the ecosystem's most exciting news from the past seven days.
 
-เราเป็นผู้ให้บริการงานด้านเว็บไซต์และสื่อออนไลน์ทุกประเภท หลักการทำงานของเรา คือ การนำเสนอข้อมูลบนเว็บไซต์ให้ง่ายต่อผู้ใช้ และเข้าถึงได้อย่างรวดเร็ว พร้อมทั้งให้ความสำคัญการสร้างภาพลักษณ์ที่ดีให้กับองค์กร บริษัท ไม่ว่าคุณจะทำธุรกิจรุ่นเล็กหรือรุ่นใหญ่ ก็มีโอกาสเติบโตทางธุรกิจได้ด้วยการทำเว็บไซต์
+Network stats update:
 
-![alt text](https://github.com/owlluke/test/blob/main/images/rank_qrcode.png?raw=true)
+The number of new wallets created on TON from April 10 to 16 grew from 400,522 to 419,121 (+4.6%).
+News:
 
+The TON ecosystem's first fund, the TONcoin Fund, launched and subsequently attracted $250 million in investments.
 
-### [บริษัท แร็งค์ โซเชียล ดิจิตอล จำกัด (Rank Social Digital)](https://www.ranksocialdigital.co.th/)
+Three countries officially announced their partnership with TON.
+
+TON's official ton.org website welcomed a new section, Blockchain analysis.
+
+The results of the TON Smart Challenge were posted.
+
+A new official channel about TON grants, investments, and incubation launched, @tonsociety.
+
+TON launched yet another channel --- this time, @tonhunt, a channel to post job vacancies in the TON ecosystem.
+
+Stay up-to-date with the latest developments brewing in the TON ecosystem by turning on the notifications to this channel. You won't want to miss a thing!
